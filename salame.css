@@ -17,13 +17,14 @@ header {
 }
 
 .menu li {
+    
     margin-left: 10px;
 }
 
 .menu li a {
     display: block;
     padding: 8px;
-    background: rgba(255, 235, 235, 0.301);
+    background: rgba(255, 255, 255, 0.301);
 }
 
 footer {
@@ -64,6 +65,9 @@ img {
     margin-bottom: 10px;
 }
 
+
+ 
+
 button {
     background-color: rgba(179, 3, 3, 0.911);
     color: #fff;
@@ -77,9 +81,7 @@ button {
     border-radius: 5px;
 }
 
-button:hover {
-    background-color: rgba(255, 255, 255, 0.911);
-}
+
 body {
     background-image: url(fundoqueijo.png);
    background-repeat: no-repeat;
