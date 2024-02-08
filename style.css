@@ -3,10 +3,11 @@ body, ul, li, p {
     padding: 0px;
     list-style: none;
     font-size: 1.3rem;
-    font-family: 'Courier New', Courier, monospace;
+   
 }
 
 a {
+
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
@@ -75,7 +76,7 @@ img {
 
 
 body {
-    background-image: url(imagem.png);
+    background-image: url(img/imagem.png);
    background-repeat: no-repeat;
    background-size: cover;
 

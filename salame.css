@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -12,19 +12,11 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.menu {
-    display: flex;
-}
-
-.menu li {
-    
-    margin-left: 10px;
-}
 
 .menu li a {
+    
     display: block;
-    padding: 8px;
-    background: rgba(255, 255, 255, 0.301);
+    margin-left: 10px;
 }
 
 footer {
@@ -65,9 +57,6 @@ img {
     margin-bottom: 10px;
 }
 
-
- 
-
 button {
     background-color: rgba(179, 3, 3, 0.911);
     color: #fff;
@@ -83,7 +72,7 @@ button {
 
 
 body {
-    background-image: url(fundoqueijo.png);
+    background-image: url(img/fundoqueijo.png);
    background-repeat: no-repeat;
    background-size: cover;
 
