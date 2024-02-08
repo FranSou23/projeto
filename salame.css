@@ -13,8 +13,12 @@ header {
     justify-content: space-between;
 }
 
-.menu li a {
+a{
     
+    color: #000000;
+}
+
+.menu li a {
     display: block;
     margin-left: 10px;
 }
