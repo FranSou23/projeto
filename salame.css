@@ -6,7 +6,7 @@ body {
 }
 header {
     display: flex;
-    background: rgba(179, 3, 3, 0.911);
+   background-color:#f3e9df ; 
     padding: 20px;
     align-items: center;
     flex-wrap: wrap;
@@ -24,10 +24,10 @@ a{
 }
 
 footer {
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
-    background: rgba(179, 3, 3, 0.911);
+    background-color:#f3e9df ; 
     padding: 20px;
     display: flex;
     flex-wrap: wrap;

@@ -9,9 +9,14 @@ body, ul, li, p {
     padding: 0px;
     list-style: none;
     font-size: 1.3rem;
-    
    
 }
+
+.whats{
+width: 20px;
+
+}
+
 .search-container {
     margin-top: 20px;
 }
@@ -45,7 +50,7 @@ a {
 .header1 {
     width: 0 auto;
     padding: 0px;
-    background-color: #b81818;
+    background-color: #ffffff;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
